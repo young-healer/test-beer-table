@@ -1,6 +1,6 @@
 import React from "react";
 import close from '../../assets/close.svg'
-import bottleError from '../../assets/bottleError.svg'
+import bottleError from '../../assets/bottle-error.svg'
 
 
 import './Modal.scss'

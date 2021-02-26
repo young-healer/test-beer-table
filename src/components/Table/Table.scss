@@ -1,0 +1,32 @@
+.table {
+    width: 70%;
+    margin-bottom: 20px;
+
+    tbody {
+        tr {
+            td {
+                text-align: center;
+            }
+        }
+    }
+}
+
+.pagination {
+    button {
+        padding: 4px;
+        width: 50px;
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 6px;
+        margin: 0 5px;
+
+        &:disabled {
+            background-color: #a9a9a9;
+        }
+    }
+}
+
+.arrow-sort {
+    width: 12px;
+    padding-left: 5px;
+}
